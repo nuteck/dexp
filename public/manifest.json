@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "version": "1.0.0",
+  "name": "dexp",
+  "description": "browser extension to show if dex is paid for tokens on pump.fun",
+  "host_permissions": [],
+  "permissions": [
+    "tabs"
+  ],
+  "action": {
+    "default_title": "dexp",
+    "default_popup": "index.html"
+  }
+}
