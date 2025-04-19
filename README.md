@@ -21,8 +21,6 @@ Upload to your browser
 
 ## Local Development
 
-The bun runtime is need to build the project you can find that at:
-
 Bun is required to build the browser extension. You can
 find the runtime here: 
 
