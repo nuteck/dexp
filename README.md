@@ -48,13 +48,13 @@ Upload to your browser:
 > Select 'dist' of the build file
 ```
 
-## CREDITS
+## Credits
 
-[hyperapp](https://github.com/jorgebucaran/hyperapp/tree/main)
-[tailwindcss](https://github.com/tailwindlabs/tailwindcss)
-[rsbuild](https://github.com/web-infra-dev/rsbuild)
+- [hyperapp](https://github.com/jorgebucaran/hyperapp/tree/main)
+- [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+- [rsbuild](https://github.com/web-infra-dev/rsbuild)
 
-## LICENSE
+## License
 
 [MIT](https://github.com/soldair/node-qrcode/blob/master/license)
 
