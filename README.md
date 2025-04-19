@@ -2,7 +2,7 @@
 
 A browser plugin to show DexScreener payment info in one click for pump.fun tokens.
 
-![dexp info view](screenshots/dexp-info-view.png)
+![dexp info view](./screenshots/dexp-info-view.png)
 
 (Only chrome based browsers are working at this time)
 
